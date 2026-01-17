@@ -1,10 +1,26 @@
-# Formulatrix Engineering Talent Day - Homework Test
+<div align="center">
 
-![.NET 10](https://img.shields.io/badge/.NET-10.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Language](https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Role](https://img.shields.io/badge/Role-Backend%20Software%20Engineer-0078D4?style=for-the-badge)
+  <img src="https://fmlx.b-cdn.net/wp-content/uploads/2017/11/formulatrix-logo-grey-orange-upper-6.png" width="250" alt="Formulatrix Logo" />
 
-Welcome to my submission for the **Formulatrix Engineering Talent Day**. This repository contains the solution for the **Competitive Test Challenge**, demonstrating scalable and clean code practices using the latest **.NET 10** framework.
+  <h1>Formulatrix Engineering Talent Day</h1>
+  <h3>Homework Test 1 - Coding Competency Test</h3>
+
+  <p>
+    <b>Role:</b> Software Engineer - Backend<br>
+    <b>Candidate:</b> Azka Rabbani Minanda
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/.NET-10.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 10" />
+    <img src="https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+    <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Backend" />
+  </p>
+
+</div>
+
+<hr />
+
+Welcome to my submission for the **Formulatrix Engineering Talent Day**. This repository contains the solution for the **Coding Competency Test Challenge**, demonstrating scalable and clean code practices using the latest **.NET 10** framework.
 
 ## 📋 Assessment Overview
 
@@ -36,8 +52,8 @@ Since this project uses **.NET 10**, please ensure you have the appropriate SDK 
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/Gcaptz/Competitive-Test_Fmlx.git](https://github.com/Gcaptz/Competitive-Test_Fmlx.git)
-    cd YOUR_REPO_NAME
+    git clone https://github.com/Gcaptz/Competitive-Test_Fmlx.git
+    cd Competitive-Test_Fmlx
     ```
 
 2.  **Restore Dependencies**
@@ -61,10 +77,6 @@ For the final challenge (Question 4), I transitioned from a static imperative ap
 
 ---
 
-## 👤 Author
-
-**Azka Rabbani Minanda**
-*Candidate for Software Engineer - Backend*
-
----
-*Submitted for Formulatrix Engineering Talent Day - January 2026*
+<div align="center">
+  <sub>Submitted for Formulatrix Engineering Talent Day - January 2026</sub>
+</div>

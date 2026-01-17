@@ -52,8 +52,8 @@ Since this project uses **.NET 10**, please ensure you have the appropriate SDK 
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/Gcaptz/Competitive-Test_Fmlx.git
-    cd Competitive-Test_Fmlx
+    git clone https://github.com/Gcaptz/Competency-Test_Fmlx.git
+    cd Competency-Test_Fmlx
     ```
 
 2.  **Restore Dependencies**

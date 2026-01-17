@@ -39,14 +39,14 @@ namespace Competency_Test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("--- Output Question 1 ---");
+            Console.WriteLine("--- Output Question 1 - n = 15 ---");
             SolveQuestion1(15);
-            Console.WriteLine("--- Output Question 2 ---");
+            Console.WriteLine("--- Output Question 2 - n = 35 ---");
             SolveQuestion2(35);
-            Console.WriteLine("--- Output Question 3 ---");
-            SolveQuestion3(50);
-            Console.WriteLine("--- Output Question 4 ---");
-            SolveQuestion4(100);
+            Console.WriteLine("--- Output Question 3 - n = 105 ---");
+            SolveQuestion3(105);
+            Console.WriteLine("--- Output Question 4 - n = 105 ---");
+            SolveQuestion4(105);
         }
 
         static void SolveQuestion1(int n)

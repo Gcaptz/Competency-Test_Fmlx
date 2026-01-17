@@ -46,10 +46,10 @@ namespace Competency_Test
             Console.WriteLine("--- Output Question 3 ---");
             SolveQuestion3(50);
             Console.WriteLine("--- Output Question 4 ---");
-            SolveQuestion4(50);
+            SolveQuestion4(100);
         }
 
-        static void SolveQuestion1(uint n)
+        static void SolveQuestion1(int n)
         {
             for (int i = 1; i <= n; i++)
             {
@@ -66,7 +66,7 @@ namespace Competency_Test
             Console.WriteLine("\n");
         }
 
-        static void SolveQuestion2(uint n)
+        static void SolveQuestion2(int n)
         {
             for (int i = 1; i <= n; i++)
             {
@@ -84,7 +84,7 @@ namespace Competency_Test
             Console.WriteLine("\n");
         }
 
-        static void SolveQuestion3(uint n)
+        static void SolveQuestion3(int n)
         {
             for (int i = 1; i <= n; i++)
             {
@@ -97,12 +97,11 @@ namespace Competency_Test
                 
                 if (string.IsNullOrEmpty(output)) output = i.ToString();
                 
-                if(i % 10 == 0) Console.WriteLine();
                 Console.Write(output);
                 if (i < n) Console.Write(", ");
+                if(i % 10 == 0) Console.WriteLine();
             }
             Console.WriteLine("\n");
-
         }
 
         static void SolveQuestion4(int n)
